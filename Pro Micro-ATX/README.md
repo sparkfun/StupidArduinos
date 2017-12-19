@@ -1,6 +1,6 @@
-##The RedBoard Pro Micro-ATX
+<h2>The RedBoard Pro Micro-ATX</h2>
 
-
+<img src="https://github.com/sparkfun/StupidArduinos/blob/master/Pro%20Micro-ATX/Stupid%20Arduino%20ATX-02.jpg?raw=true" alt="Photograph of an RGB lit side-window PC tower case housing a liquid cooler and a number of expansion cards">
 
 Let me show you its features:
 
